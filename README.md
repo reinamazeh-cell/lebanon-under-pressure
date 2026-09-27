@@ -16,4 +16,4 @@ The reader chooses a conflict, then reveal the conflict year and its aftermath; 
 
 ## Live App
 
-[Streamlit link will go here]
+[https://lebanon-under-pressure-reina.streamlit.app]
